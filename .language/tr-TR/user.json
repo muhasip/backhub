@@ -1,0 +1,13 @@
+{
+    "notification": "Bildirimler",
+    "logout": "Çıkış Yap",
+    "info": "Kişisel bilgiler",
+    "accounts": "Bağlı hesaplar",
+    "security": "Güvenlik",
+    "payments": "Ödemeler ve abonelikler",
+    "lightMode": "Açık Mod",
+    "darkMode": "Koyu Mod",
+    "name": "Ad Soyad",
+    "mail": "Mail Adresi",
+    "picture": "Profil Resmi"
+  }

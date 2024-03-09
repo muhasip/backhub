@@ -1,0 +1,44 @@
+{
+	"clipboard": {
+      "copy": "Kopyala",
+      "copied": "Kopyalandı"
+    },
+    "reload": "Yenile",
+    "home": "Anasayfa",
+    "show": "Göster",
+    "hide": "Gizle",
+    "load": {
+      "loading": "Veriler yükleniyor",
+      "empty": "Veri yok"
+    },
+    "figma": {
+      "title": "Figma ile Oturum Aç",
+      "message": "Figma ile oturum açılıyor lütfen bekleyiniz."
+    },
+    "general": {
+      "move": "Taşı",
+      "form": "Alt Form Elemanları"
+    },
+    "sizes": {
+      "small": "Küçük",
+      "normal": "Varsayılan",
+      "large": "Büyük"
+    },
+    "positions": {
+      "top": "Üst",
+      "left": "Sola dayalı",
+      "right": "Sağa dayalı"
+    },
+    "groups": {
+      "add": "Grup oluştur",
+      "edit": "Grup düzenle",
+      "title": "Grup adı",
+      "undefined": "Grupsuz",
+      "move": "Gruba taşı"
+    },
+    "search": {
+      "title": "Arama yapın",
+      "noresult": "Arama kelimesi ile eşleşen öğe yok",
+      "reset": "Aramayı sıfırla"
+    }
+}
